@@ -1,1 +1,1 @@
-# jshandson8
+# JS Handson 8 (Maps & Sets)
